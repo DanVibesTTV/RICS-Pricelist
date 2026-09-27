@@ -1,0 +1,59 @@
+{
+  "total": 6,
+  "viewers": [
+    {
+      "username": "danvibes",
+      "karma": 200.0,
+      "coins": 626,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "128146050"
+      }
+    },
+    {
+      "username": "getonmycheeseburger",
+      "karma": 200.0,
+      "coins": 1306,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "235505195"
+      }
+    },
+    {
+      "username": "nightbot",
+      "karma": 100.0,
+      "coins": 304,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "19264788"
+      }
+    },
+    {
+      "username": "userservicebot",
+      "karma": 100.0,
+      "coins": 388,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "503609778"
+      }
+    },
+    {
+      "username": "lumiastream",
+      "karma": 100.0,
+      "coins": 364,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "605116711"
+      }
+    },
+    {
+      "username": "lovesakurasan",
+      "karma": 200.0,
+      "coins": 515,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "75451731"
+      }
+    }
+  ]
+}

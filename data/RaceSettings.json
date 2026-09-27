@@ -46,7 +46,7 @@
   "Kurin_Race": {
     "DisplayName": "Kurin",
     "Enabled": true,
-    "ModActive": true,
+    "ModActive": false,
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
@@ -96,7 +96,7 @@
   "Ratkin": {
     "DisplayName": "ratkin",
     "Enabled": true,
-    "ModActive": true,
+    "ModActive": false,
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
@@ -146,7 +146,7 @@
   "Alien_Nyaron": {
     "DisplayName": "Nyaron",
     "Enabled": true,
-    "ModActive": true,
+    "ModActive": false,
     "BasePrice": 3000,
     "MinAge": 16,
     "MaxAge": 65,
